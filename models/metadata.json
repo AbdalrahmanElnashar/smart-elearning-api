@@ -1,0 +1,51 @@
+{
+  "model_name": "XGBoost",
+  "feature_columns": [
+    "gender_m",
+    "edu_level",
+    "imd_num",
+    "age_num",
+    "num_of_prev_attempts",
+    "studied_credits",
+    "disability_flag",
+    "total_score",
+    "avg_score",
+    "num_assessments",
+    "total_clicks",
+    "recent_clicks",
+    "recent_click_share",
+    "elapsed_fraction",
+    "registration_lead_days",
+    "withdrawn_by_snapshot_flag",
+    "registration_duration",
+    "clicks_per_credit",
+    "score_per_assess",
+    "assessment_density",
+    "score_per_credit",
+    "activity_efficiency",
+    "credit_load_category",
+    "engagement_intensity",
+    "low_activity_flag",
+    "late_registration_flag",
+    "high_click_but_low_score_flag"
+  ],
+  "categorical_columns": [
+    "credit_load_category"
+  ],
+  "cutoffs": [
+    0.1,
+    0.25,
+    0.4,
+    0.55,
+    0.7,
+    0.85,
+    1.0
+  ],
+  "metrics": {
+    "Accuracy": 0.8510041217223537,
+    "Precision": 0.815948056357155,
+    "Recall": 0.8866088720833718,
+    "F1-score": 0.8498121546961326
+  },
+  "trained_at": "2026-09-03T19:48:42.104070+00:00"
+}

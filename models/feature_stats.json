@@ -1,0 +1,76 @@
+{
+  "cutoffs": [
+    0.1,
+    0.25,
+    0.4,
+    0.55,
+    0.7,
+    0.85,
+    1.0
+  ],
+  "by_cutoff": {
+    "0.1": {
+      "total_clicks_mean": 291.9031713770756,
+      "total_clicks_std": 386.4819910955251,
+      "total_clicks_median": 170.0,
+      "total_score_median": 67.0,
+      "registration_lead_days_median": 57.0,
+      "imd_num_median": 45.0,
+      "row_count": 26077
+    },
+    "0.25": {
+      "total_clicks_mean": 507.0715573110404,
+      "total_clicks_std": 674.6972670962197,
+      "total_clicks_median": 291.0,
+      "total_score_median": 154.0,
+      "registration_lead_days_median": 57.0,
+      "imd_num_median": 45.0,
+      "row_count": 26077
+    },
+    "0.4": {
+      "total_clicks_mean": 642.172680906546,
+      "total_clicks_std": 874.0740662913895,
+      "total_clicks_median": 354.0,
+      "total_score_median": 190.0,
+      "registration_lead_days_median": 57.0,
+      "imd_num_median": 45.0,
+      "row_count": 26077
+    },
+    "0.55": {
+      "total_clicks_mean": 809.7448709590827,
+      "total_clicks_std": 1109.6099857999636,
+      "total_clicks_median": 431.0,
+      "total_score_median": 262.0,
+      "registration_lead_days_median": 57.0,
+      "imd_num_median": 45.0,
+      "row_count": 26077
+    },
+    "0.7": {
+      "total_clicks_mean": 964.890133067454,
+      "total_clicks_std": 1341.2603122710666,
+      "total_clicks_median": 499.0,
+      "total_score_median": 325.0,
+      "registration_lead_days_median": 57.0,
+      "imd_num_median": 45.0,
+      "row_count": 26077
+    },
+    "0.85": {
+      "total_clicks_mean": 1102.804080223952,
+      "total_clicks_std": 1542.3075006628642,
+      "total_clicks_median": 559.0,
+      "total_score_median": 365.0,
+      "registration_lead_days_median": 57.0,
+      "imd_num_median": 45.0,
+      "row_count": 26077
+    },
+    "1.0": {
+      "total_clicks_mean": 1208.011466042873,
+      "total_clicks_std": 1678.3042702106823,
+      "total_clicks_median": 602.0,
+      "total_score_median": 393.0,
+      "registration_lead_days_median": 57.0,
+      "imd_num_median": 45.0,
+      "row_count": 26077
+    }
+  }
+}
